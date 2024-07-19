@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Logic_Joker/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/logicjokerz) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Logic_Joker/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/logicjokerz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/logicjokerz) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pixelscriptz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pixelscriptz&theme=gruvbox&hide_border=false)<br/>
