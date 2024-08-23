@@ -3,7 +3,8 @@
 - 👋 Hi, I’m @logicjokerz
 - 👀 I’m interested in ... Termux 
 - ❤️📱📱 I'm love Earning Money From Many Device   
-- 📫 How to reach me ... @logicjokerz (Twitter)
+- 📫 How to reach me ...
+  [Twitter](https://x.com/logicjokerz)
 - 🤖 Make Money From Bot or Script (Do Your Own Risk)
 
 
