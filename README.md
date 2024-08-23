@@ -5,6 +5,7 @@
 - ❤️📱📱 I'm love Earning Money From Many Device   
 - 📫 How to reach me ...
   - [Twitter](https://x.com/logicjokerz)
+  - [Telegram](https://t.me/logicjokerz)
 - 🤖 Make Money From Bot or Script (Do Your Own Risk)
 
 
